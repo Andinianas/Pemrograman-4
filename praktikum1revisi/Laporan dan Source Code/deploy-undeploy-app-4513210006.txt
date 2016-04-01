@@ -1,0 +1,17 @@
+NetBeans: Deploying on Apache Tomcat or TomEE
+    profile mode: false
+    debug mode: false
+    force redeploy: true
+Starting Tomcat process...
+Waiting for Tomcat...
+Tomcat server started.
+Undeploying ...
+undeploy?path=/praktikum1
+OK - Undeployed application at context path /praktikum1
+In-place deployment at C:\Users\hp\Documents\NetBeansProjects\praktikum1\target\praktikum1-1.0-SNAPSHOT
+Deployment is in progress...
+deploy?config=file%3A%2FC%3A%2FUsers%2Fhp%2FAppData%2FLocal%2FTemp%2Fcontext870652384678055293.xml&path=/praktikum1
+OK - Deployed application at context path /praktikum1
+Start is in progress...
+start?path=/praktikum1
+OK - Started application at context path /praktikum1
